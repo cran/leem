@@ -98,32 +98,8 @@ msgstr "Limite dos eixos"
 msgid "xlimits"
 msgstr "limite-x"
 
-msgid "8"
-msgstr ""
-
 msgid "ylimits"
 msgstr "limite-y"
-
-msgid "4"
-msgstr ""
-
-msgid "a"
-msgstr ""
-
-msgid "1"
-msgstr ""
-
-msgid "b"
-msgstr ""
-
-msgid "-2"
-msgstr ""
-
-msgid "c"
-msgstr ""
-
-msgid "-3"
-msgstr ""
 
 msgid "1st degree function Additional"
 msgstr "Função do 1º grau"
@@ -214,17 +190,321 @@ msgstr ""
 msgid "Author"
 msgstr "Autor"
 
-msgid ""
-"Juliane Nassarala Almeida (PROFMAT/UFSJ) \n"
-" julianenassaralla@gmail.com"
-msgstr ""
+msgid "Ogives"
+msgstr "Gráfico de ogivas"
 
-msgid ""
-"Ben Dêivide de Oliveira Batista (UFSJ) \n"
-" ben.deivide@ufsj.edu.br"
-msgstr ""
+msgid "Groups"
+msgstr "Grupos"
 
-msgid ""
-"Alexandre Celesino Leite Almeida (UFSJ)\n"
-" celestino@ufsj.edu.br"
-msgstr ""
+msgid "Frequency"
+msgstr "Frequência"
+
+msgid "Ogive larger than"
+msgstr "Ogiva crescente"
+
+msgid "Ogive less than"
+msgstr "Ogiva decrescente"
+
+msgid "Classes"
+msgstr "Classes"
+
+msgid "Polygon"
+msgstr "Polígono de frequências"
+
+msgid "Bar plot"
+msgstr "Gráfico de barras"
+
+msgid "Histogram"
+msgstr "Histograma de frequências"
+
+msgid "Stick chart"
+msgstr "Gráfico de hastes ou bastão"
+
+msgid "Mean"
+msgstr "Média"
+
+msgid "Median"
+msgstr "Mediana"
+
+msgid "Mode"
+msgstr "Moda"
+
+msgid "Use the 'new_leem()' function to create an object of class leem!"
+msgstr "Use a função 'new_leem()' para criar um objeto de classe 'leem'!"
+
+msgid "The argument should be numerical!"
+msgstr "O argumento deve ser numérico!"
+
+msgid "The k argument should be greater than 1!"
+msgstr "O argumento k deve ser maior que 1!"
+
+msgid "Table of frequency"
+msgstr "Tabela de frequência"
+
+msgid "Type of variable:"
+msgstr "Tipo de variável:"
+
+msgid "Classes: Grouping of classes"
+msgstr "Classes: Agrupamento de classes"
+
+msgid "Fi: Absolute frequency"
+msgstr "Fi: Frequência absoluta"
+
+msgid "PM: Midpoint"
+msgstr "PM: Ponto médio"
+
+msgid "Fr: Relative frequency"
+msgstr "Fr: Frequência relativa"
+
+msgid "Fac1: Cumulative frequency (below)"
+msgstr "Fac1: Frequência acumulada (abaixo de)"
+
+msgid "Fac2: Cumulative frequency (above)"
+msgstr "Fac2: Frequência acumulada (acima de)"
+
+msgid "Fp: Percentage frequency"
+msgstr "Fp: Frequência percentual"
+
+msgid "Fac1p: Cumulative percentage frequency (below)"
+msgstr "Fac1p: Frequência acumulada percentual (abaixo de)"
+
+msgid "Fac2p: Cumulative percentage frequency (above)"
+msgstr "Fac2p: Frequência acumulada percentual (acima de)"
+
+msgid "Groups: Discretized grouping"
+msgstr "Groups: Agrupamento discretizado"
+
+msgid "Relative frequency"
+msgstr "Frequência relativa"
+
+msgid "Percentage frequency (%)"
+msgstr "Frequência percentual (%)"
+
+msgid "Confidence interval for"
+msgstr "Intervalo de confiança para"
+
+msgid "of normal population"
+msgstr "de uma população normal"
+
+msgid "is known"
+msgstr "é conhecida"
+
+msgid "Pivotal quantity"
+msgstr "Quantidade pivotal"
+
+msgid "Confidence level"
+msgstr "Coeficiente de confiança"
+
+msgid "of symmetric distribution"
+msgstr "de uma distribuição simétrica"
+
+msgid "Degrees of freedom"
+msgstr "Graus de liberdade"
+
+msgid "is unknown"
+msgstr "é não conhecida"
+
+msgid "Skewness"
+msgstr "Assimetria"
+
+msgid "Symmetric distribution"
+msgstr "Distribuição simétrica"
+
+msgid "skew"
+msgstr "AS"
+
+msgid "Positive skew"
+msgstr "Assimetria positiva"
+
+msgid "Negative skew"
+msgstr "Assimetria negativa"
+
+msgid "Kurtosis"
+msgstr "Curtose"
+
+msgid "Leptokurtic distribution"
+msgstr "Distribuição leptocúrtica"
+
+msgid "Mesokurtic distribution"
+msgstr "Distribuição mesocúrtica"
+
+msgid "Platykurtic distribution"
+msgstr "Distribuição platicúrtica"
+
+msgid "(Interquartile \n Range)"
+msgstr "(Ampl. \n interquartílica)"
+
+msgid "(Interquartile Range)"
+msgstr "(Ampl. interquartílica)"
+
+msgid "(25th percentile)"
+msgstr "(25° percentil)"
+
+msgid "(50th percentile)"
+msgstr "(50° percentil)"
+
+msgid "(75th percentile)"
+msgstr "(75° percentil)"
+
+msgid "Outlier"
+msgstr "Dado discrepante"
+
+msgid "Upper whisker limit"
+msgstr "Limite superior"
+
+msgid "Lower whisker limit"
+msgstr "Limite inferior"
+
+msgid "Probability function plot: Binomial"
+msgstr "Gráfico da função de probabilidade: Binomial"
+
+msgid "Parameters:"
+msgstr "Parâmetro(s):"
+
+msgid "Distribution Function"
+msgstr "Função de distribuição"
+
+msgid "Discrete variable"
+msgstr "Variável discreta"
+
+msgid "Distribution Function Properties"
+msgstr "Propriedades da função de distribuição"
+
+msgid "Continuous variable"
+msgstr "Variável contínua"
+
+msgid "Standard Deviation"
+msgstr "Desvio padrão"
+
+msgid "Quantile"
+msgstr "Quantil"
+
+msgid "leem package: Normal Distribution"
+msgstr "Pacote leem: Distribuição Normal"
+
+msgid "Probability function plot: Normal"
+msgstr "Gráfico da FDP: Normal"
+
+msgid "Do you want to close?"
+msgstr "Deseja fechar?"
+
+msgid "Tell me something:"
+msgstr "Diga-me algo:"
+
+msgid "Critical point"
+msgstr "Ponto crítico"
+
+msgid "test \nstatistic"
+msgstr "Estatística \ndo teste"
+
+msgid "Test of proportion: Z-Test"
+msgstr "Teste de proporção: Teste Z"
+
+msgid "Test of hypothesis: Z-Test"
+msgstr "Teste de hipóteses: Teste Z"
+
+msgid "Step 1: Hypothesis"
+msgstr "Passo 1: Hipóteses"
+
+msgid  "ACCEPT"
+msgstr "ACEITA"
+
+msgid "Step 2: Significante level"
+msgstr "Passo 2: Nível de significância"
+
+msgid "Step 3: Rule of decision"
+msgstr "Passo 3: Regra de decisão"
+
+msgid "Step 4: Conclusion"
+msgstr "Passo 4: Conclusão"
+
+msgid "No evidence to reject"
+msgstr "Sem evidências para rejeitar"
+
+msgid "% probability"
+msgstr "% de probabilidade"
+
+msgid "We observed by the Z Test that there is no evidence to reject the H0 hypothesis, at the significance level of"
+msgstr "Observamos pelo teste Z que não há evidências para rejeitar a hipótese H0, ao nível significância de"
+
+msgid "As |ztest ="
+msgstr "Como |ztest ="
+
+msgid "As ztest ="
+msgstr "Como ztest ="
+
+msgid "As p-value ="
+msgstr "Como o valor-p ="
+
+msgid "then H0 is not rejected!"
+msgstr "então H0 não é rejeitada!"
+
+msgid "One Sample z-test (Two-sided test)"
+msgstr "Teste Z para uma amostra (Teste bilateral)"
+
+msgid "Step 1:"
+msgstr "Passo 1:"
+
+msgid "Hypothesis"
+msgstr "Hipóteses"
+
+msgid "Step 2:"
+msgstr "Passo 2:"
+
+msgid "Step 3:"
+msgstr "Passo 3:"
+
+msgid "Step 4:"
+msgstr "Passo 4:"
+
+msgid "Significance level"
+msgstr "Nível de significância"
+
+msgid "If |ztest| > |ztab| => Reject H0!"
+msgstr "Se |ztest| > |ztab| => Rejeita-se H0!"
+
+msgid "If ztest > ztab => Reject H0!"
+msgstr "Se ztest > ztab => Rejeita-se H0!"
+
+
+msgid "ztest - test statistic; ztab - critical point"
+msgstr "ztest - estatística do teste; ztab - ponto crítico"
+
+msgid "So..."
+msgstr "Então..."
+
+msgid "Otherwise..."
+msgstr "De outra forma..."
+
+msgid "Conclusion"
+msgstr "Conclusão"
+
+msgid "Rule of decision"
+msgstr "Regra de decisão"
+
+msgid "Enter the value of population standard deviation:"
+msgstr "Insira o valor do desvio padrão populacional:"
+
+msgid "Enter the value of null hypothesis:"
+msgstr "Insira o valor da hipótese nula:"
+
+msgid "Enter the standard deviation value of population 1:"
+msgstr "Insira o desvio padrão da população 1:"
+
+msgid "Enter the standard deviation value of population 2:"
+msgstr "Insira o desvio padrão da população 2:"
+
+msgid "We observed by the Z Test that the null hypothesis was rejected, at the significance level of"
+msgstr "Observamos pelo teste Z que a hipótese nula foi rejeitada, ao nivel de significância de"
+
+msgid "then reject H0!"
+msgstr "então, rejeita-se H0!"
+
+msgid "was rejected"
+msgstr "foi rejeitada"
+
+msgid "One Sample z-test (Less test)"
+msgstr "Teste Z para uma amostra (Teste unilateral à esquerda)"
+
+msgid "One Sample z-test (Greater test)"
+msgstr "Teste Z para um amostra (Teste unilateral à direita)"
